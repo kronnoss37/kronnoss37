@@ -29,20 +29,20 @@
 - Vite
 
 ## :dart: The nearest goals
-- Практикуюсь с Native JS
-- Изучаю TypeScript
-- Изучаю RTK Query
-- Улучшаю навыки React
-- Дорабатываю учебные проекты
+- Practicing with Native JS
+- Learning TypeScript
+- Learning RTK Query
+- Improving my React skills
+- Finalizing educational projects
 
 ## 📌 My projects
-1. [Brain Games](https://github.com/kronnoss37/frontend-project-44)
+1. [Brain Games](https://github.com/kronnoss37/frontend-project-44)<br>
 Проект набор из пяти консольных игр: калькулятор, прогрессия, определение четного числа, определение наибольшего общего делителя, определение простого числа
-2. [GenDiff](https://github.com/kronnoss37/frontend-project-46)
+2. [GenDiff](https://github.com/kronnoss37/frontend-project-46)<br>
 CLI-утилита для определения разницы между двумя структурами данных
-3. [RSS Reader](https://github.com/kronnoss37/frontend-project-11)
+3. [RSS Reader](https://github.com/kronnoss37/frontend-project-11)<br>
 Приложение для агрегации RSS-потоков. Позволяет добавлять неограниченное количество RSS-лент, сам их обновляет и добавляет новые записи
-4. [Chat App](https://github.com/kronnoss37/frontend-project-12)
+4. [Chat App](https://github.com/kronnoss37/frontend-project-12)<br>
 Мини-чат по аналогии со Slack: регистрация и авторизация, создание и редактирование каналов, отправка и получение сообщений в реальном времени.
 
 ## :mailbox: Contact me
